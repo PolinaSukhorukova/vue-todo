@@ -22,6 +22,8 @@ export default {
                 completed: false,
             };
 
+            if (!this.title.trim()) return alert("Please enter a todo");
+
             this.$emit("add-todo", newTodo);
             this.title = "";
         }
