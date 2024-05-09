@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktodo_app"]=self["webpackChunktodo_app"]||[]).push([[594],{333:function(t,u,n){n.r(u),n.d(u,{default:function(){return d}});var s=n(6768);const o={class:"about"},a=(0,s.Lk)("h1",null,"About",-1),e=(0,s.Lk)("p",null,"This is a simple TodoList app built with Vue.js",-1),i=[a,e];function p(t,u){return(0,s.uX)(),(0,s.CE)("div",o,i)}var r=n(1241);const l={},c=(0,r.A)(l,[["render",p]]);var d=c}}]);
+//# sourceMappingURL=about.195ed30e.js.map
